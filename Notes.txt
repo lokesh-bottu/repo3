@@ -1,0 +1,14 @@
+text-align :center
+text-decoration : underline/overline/line-through/none
+font-weight :normal/bold/bolder/
+font-family : arial,roboto
+font-size: 25px
+line-height : 20px - defines the height of the line individually
+border:2px solid black;
+border-radius: 10px or 50%
+
+
+display:inline /inline-block/none
+visibility : none
+
+rgba
